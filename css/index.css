@@ -1,0 +1,26 @@
+body {
+    font-family: "Sora", sans-serif;
+    line-height: 1.7;
+    color: var(--body);
+}
+
+
+/* footer */
+
+.footer-top {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: var(--dark);
+}
+
+.footer-top a {
+    color: var(--body);
+}
+
+.footer-top a:hover {
+    color: var(--white);
+}
+
+.footer-bottom {
+    background-color: #242933;
+}
